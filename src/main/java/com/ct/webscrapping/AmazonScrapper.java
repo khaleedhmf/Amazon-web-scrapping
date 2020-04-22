@@ -65,7 +65,7 @@ public class AmazonScrapper {
 
 			protected PasswordAuthentication getPasswordAuthentication() {
 
-				return new PasswordAuthentication("tiron073@gmail.com", "BlackHole@20");
+				return new PasswordAuthentication("tiron073@gmail.com", "************");
 
 			}
 
